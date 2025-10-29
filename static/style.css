@@ -29,8 +29,8 @@ input, select, button {
 }
 
 button {
-    background-color: #007bff;
-    color: white;
+    background-color: green;
+    color: whithe;
     border: none;
     cursor: pointer;
 }
